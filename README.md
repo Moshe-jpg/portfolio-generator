@@ -1,1 +1,1 @@
-# portfolio-generator
+# portfolio-generator made from scratch
